@@ -74,14 +74,18 @@ Manages user profile information and application settings.
 # 📂 Project Structure
 
 ```bash
-app/
- ┣ ui/
- ┣ database/
- ┣ models/
- ┣ viewmodel/
- ┣ navigation/
- ┣ utils/
- ┗ screens/
+NammaSantheLedger/
+│── .gradle/
+│── app/
+│── gradle/
+│── .gitignore
+│── build.gradle
+│── gradle.properties
+│── gradlew
+│── gradlew.bat
+│── local.properties
+│── README.md
+│── settings.gradle
 ```
 
 ---
