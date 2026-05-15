@@ -33,7 +33,7 @@ The application replaces traditional handwritten khata systems with a simple and
 
 ## 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/namma-santhe-ledger.git
+git clone https://github.com/Likhitha0306/MyInternshipProject.git
 ```
 
 ## 2. Open in Android Studio
